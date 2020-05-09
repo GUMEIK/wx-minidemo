@@ -1,0 +1,1 @@
+<button type="primary" bindtap="getID">获取oppenID</button>

@@ -1,0 +1,4 @@
+/* pages/cloud/db.wxss */
+button{
+  margin-top: 20px;
+}

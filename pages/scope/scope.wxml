@@ -1,0 +1,4 @@
+<button type="primary" bindtap="getUserSetting">查看用户权限</button>
+<button type="primary" bindtap="openUserSetting">打开用户权限设置</button>
+<button type="primary" bindtap="takeAuthorize">发起授权请求</button>
+<button type="primary" bindtap="getUserInfo">获取用户信息</button>

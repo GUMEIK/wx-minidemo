@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/scope/scope"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "谷美-分期方案比较",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "pink"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,8 @@
+<!--pages/cloud/db.wxml-->
+<text>pages/cloud/db.wxml</text>
+<view>数据库操作</view>
+<button type="primary" bindtap="queryDB">查询数据</button>
+<button type="primary" bindtap="insertDB">插入数据</button>
+<button type="primary" bindtap="deleteDB">删除数据</button>
+<button type="primary" bindtap="updateDB">更新数据</button>
+<button type="primary" bindtap="updateDBCloud">云端更新数据</button>

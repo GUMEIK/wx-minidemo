@@ -1,0 +1,3 @@
+<button type="primary" bindtap="upload">upload</button>
+<button type="primary" bindtap="download">download</button>
+<image src="{{imagePath}}"></image>

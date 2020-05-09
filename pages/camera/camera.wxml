@@ -1,0 +1,10 @@
+<view>
+  <camera
+    mode='normal'
+    device-position="back"
+    flash="auto"
+    frame-size="large"
+    style="height:500px"
+  ></camera>
+  <button type="primary" bindtap="takePhoto">拍照</button>
+</view>

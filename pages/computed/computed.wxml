@@ -1,0 +1,27 @@
+<view>
+	<view class="tips">
+		请按提示输入两种分期方案的计算指数：
+	</view>
+	<view class="ideaContent">
+		<view class="idea">
+			<view class="title">方案一</view>
+			<form bindsubmit="submit1">
+				<input name="m" placeholder="请输入花费总额度"></input>
+				<input name="n" placeholder="请输入分期数"></input>
+				<input name="s" placeholder="请输入平均月收益率(小数),如0.08"></input>
+				<button form-type='submit' type="primary">确认方案一</button>
+			</form>
+		</view>
+		<view class="idea">
+			<view class="title">方案二</view>
+			<form bindsubmit="submit2">
+				<input name="m" placeholder="请输入花费总额度"></input>
+				<input name="n" placeholder="请输入分期数"></input>
+				<input  name="s" placeholder="请输入平均月收益率(小数),如0.08"></input>
+				<button form-type='submit' type="primary">确认方案二</button>
+			</form>
+		</view>
+		<button type="primary" bindtap="compute">点击进行计算</button>
+	</view>
+
+</view>
